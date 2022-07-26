@@ -4,3 +4,5 @@
 -git commit -m "message" (to add a message to the file)
 -git log (to see what have i saved as a copy/save point)
 -git add . (to add every file to the staging area)
+-git diff <file> (to see the differences between the file before and after changes)
+-git checkout <file name we want back> (to roll back to an older version of the file)
