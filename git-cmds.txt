@@ -3,3 +3,4 @@
 -git add (to add someething to the staging area)
 -git commit -m "message" (to add a message to the file)
 -git log (to see what have i saved as a copy/save point)
+-git add . (to add every file to the staging area)
