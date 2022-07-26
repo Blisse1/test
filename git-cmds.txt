@@ -1,0 +1,5 @@
+-git init (to initialize a local repository)
+-git status (to see whats on the staging area, to pick what files should be tracked)
+-git add (to add someething to the staging area)
+-git commit -m "message" (to add a message to the file)
+-git log (to see what have i saved as a copy/save point)
